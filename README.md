@@ -33,20 +33,17 @@ Septiembre 2022 – Presente
 - Análisis de datos ADS-B del Aeropuerto de Madrid-Barajas para predecir tiempos de despegue.  
 - Procesamiento y enriquecimiento de datos (meteorología y puntos de espera).  
 - Modelos entrenados: Random Forest, SVR y Gradient Boosting (MAE 67.6 s).  
-- Habilidades: Seaborn, Matplotlib, TensorFlow, Multiprocessing, joblib, Scikit-learn  
-- [Repositorio GitHub](#)  
+- Habilidades: Seaborn, Matplotlib, TensorFlow, Multiprocessing, joblib, Scikit-learn 
 
 **Knowledge-Based Systems** (Sep 2024 – Dic 2024)  
 - Sistemas inteligentes usando lógica difusa, RDF/SPARQL y LLMs.  
 - Incluye motor de inferencia, gestor de redes semánticas y asistente académico con LLaMA3 (RAG y CoT).  
 - Habilidades: Ollama, RAG, Chain of Thought, Lógica difusa, Motores de inferencia, NLP, LLMs  
-- [Repositorio GitHub](#)  
 
 **MacBrides Analytics Finance** (Ene 2024 – May 2024)  
 - Sistema de machine learning para predecir el comportamiento del S&P 500.  
 - Modelos predictivos y recomendaciones de compra/venta basados en datos históricos.  
 - Habilidades: Pandas, Scikit-learn, Python, Visualización de datos  
-- [Repositorio GitHub](#)  
 
 ---
 

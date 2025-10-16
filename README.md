@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy [Ignacio Gutierrez Sanchez]
 
-<!--
-**nacho2606/nacho2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de informática con interés en programación, análisis de datos y desarrollo de software. Me gusta aprender nuevas tecnologías y aplicar soluciones eficientes a problemas complejos.
 
-Here are some ideas to get you started:
+## Actualmente aprendiendo
+- Programación paralela y distribuida (OpenMP, Ray)
+- Algoritmos genéticos y optimización de funciones
+- Ciencia de datos y aprendizaje automático con Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- Implementación de algoritmos genéticos para optimización de funciones
+- Paralelización de clasificación de imágenes usando modelos de visión (ViT) con Ray
+- Prácticas de programación paralela en Python y C++ con OpenMP y offloading a GPU
+
+## Hobbies
+- Resolver problemas lógicos y acertijos
+- Análisis y visualización de datos
+- Aprender nuevas herramientas de programación y tecnología
